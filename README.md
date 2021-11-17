@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Mercedes Kalaizic, a determined & goal-driven Front-end developer specializing in React/Redux/Node with a strong creative and business background. Team player, problem-solver, and passionate about building systems.
 
